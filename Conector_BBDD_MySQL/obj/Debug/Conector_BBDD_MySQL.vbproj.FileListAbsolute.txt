@@ -1,0 +1,14 @@
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_MySQL\bin\Debug\Conector_BBDD_MySQL.exe.config
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.Form1.resources
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.Resources.resources
+C:\Users\pascu.000\AppData\Local\Temporary Projects\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.vbproj.GenerateResource.Cache
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\bin\Debug\Conector_BBDD_MySQL.exe.config
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.Form1.resources
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.Resources.resources
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.vbproj.GenerateResource.Cache
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\bin\Debug\Conector_BBDD_MySQL.exe
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\bin\Debug\Conector_BBDD_MySQL.pdb
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\bin\Debug\Conector_BBDD_MySQL.xml
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.exe
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.xml
+C:\Users\pascu.000\Documents\Visual Studio 2012\Projects\Conector_BBDD_MySQL\Conector_BBDD_MySQL\obj\Debug\Conector_BBDD_MySQL.pdb
